@@ -1,3 +1,5 @@
+Can be used simply by downloading and using like simple mern projects (I.Y.K.Y.K.)
+
 A simple real time set booking demo using socketio and mongoose react (Mern) just for demo purpose but uses transaction in mongose and socketio make it reliableSure! Here’s a continuation of your text:
 
 This demo showcases a straightforward real-time booking system where users can reserve slots seamlessly. Leveraging Socket.IO, we ensure that any booking updates are instantly communicated to all connected clients, providing a fluid user experience. The backend is built with Node.js and Express, while MongoDB, accessed through Mongoose, handles our data persistence.
